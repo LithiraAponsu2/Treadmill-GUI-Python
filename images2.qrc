@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="2nd">
+    <file>icons8-repeat-96.png</file>
+    <file>icons8-pause-96.png</file>
+    <file>icons8-play-96.png</file>
+    <file>icons8-skip-to-start-96.png</file>
+    <file>Conf2018-background-top-desktop-1366x894.png</file>
+  </qresource>
+</RCC>
